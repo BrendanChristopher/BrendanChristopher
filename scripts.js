@@ -1,0 +1,1 @@
+alert("You've succesfully linked your Javascript file!");
